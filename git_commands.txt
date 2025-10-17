@@ -1,0 +1,500 @@
+   20  nodemon app.js
+   21  cd OneDrive/Documents/YelpCamp
+   22  ls
+   23  nodemon app.js
+   24  nodemon app.js
+   25  cd OneDrive/Documents/YelpCamp
+   26  nodemon app.js
+   27  nodemon app.js
+   28  nodemon app.js
+   29  nodemon app.js
+   30  nodemon app.js
+   31  nodemon app.js
+   32  nodemon app.js
+   33  nodemon app.js
+   34  nodemon app.js
+   35  npm i express-session
+   36  npm i express-session
+   37  nodemon app.js
+   38  nodemon app.js
+   39  nodemon app.js
+   40  nodemon app.js
+   41  nodemon app.js
+   42  nodemon app.js
+   43  npm i connect-flash
+   44  nodemon app.js
+   45  cd OneDrive/Documents/YelpCamp
+   46  nodemon app.js
+   47  nodemon app.js
+   48  nodemon app.js
+   49  nodemon app.js
+   50  nodemon app.js
+   51  nodemon app.js
+   52  nodemon app.js
+   53  nodemon app.js
+   54  cd OneDrive/Documents/YelpCamp
+   55  ls
+   56  nodemon app.js
+   57  npm i passport passport-local passport-local-mongoose
+   58  nodemon app.js
+   59  nodemon app.js
+   60  nodemon app.js
+   61  nodemon app.js
+   62  nodemon app.js
+   63  nodemon app.js
+   64  nodemon app.js
+   65  nodemon app.js
+   66  nodemon app.js
+   67  nodemon app.js
+   68  nodemon app.js
+   69  nodemon app.js
+   70  nodemon app.js
+   71  nodemon app.js
+   72  nodemon app.js
+   73  nodemon app.js
+   74  nodemon app.js
+   75  nodemon app.js
+   76  nodemon app.js
+   77  nodemon app.js
+   78  nodemon app.js
+   79  nodemon app.js
+   80  nodemon app.js
+   81  nodemon app.js
+   82  cd OneDrive/Documents/YelpCamp
+   83  ls
+   84  nodemon app.js
+   85  nodemon app.js
+   86  mongosh
+   87  cd OneDrive/Documents/YelpCamp
+   88  node seeds/index
+   89  nodemon app.js
+   90  nodemon app.js
+   91  nodemon app.js
+   92  nodemon app.js
+   93  nodemon app.js
+   94  mongosh
+   95  cd OneDrive/Documents/YelpCamp
+   96  ls
+   97  nodemon app.js
+   98  nodemon app.js
+   99  nodemon app.js
+  100  mongosh
+  101  cd OneDrive/Documents/YelpCamp
+  102  nodemon app.js
+  103  nodemon app.js
+  104  nodemon app.js
+  105  nodemon app.js
+  106  nodemon app.js
+  107  nodemon app.js
+  108  nodemon app.js
+  109  nodemon app.js
+  110  nodemon app.js
+  111  nodemon app.js
+  112  nodemon app.js
+  113  nodemon app.js
+  114  nodemon app.js
+  115  nodemon app.js
+  116  nodemon app.js
+  117  nodemon app.js
+  118  npm i multer
+  119  nodemon app.js
+  120  cd OneDrive/Documents/YelpCamp
+  121  ls 
+  122  nodemon app.js
+  123  nodemon app.js
+  124  nodemon app.js
+  125  nodemon app.js
+  126  npm dot env
+  127  npm i dotenv
+  128  nodemon app.js
+  129  npm install cloudinary multer-storage-cloudinary
+  130  npm install cloudinary@1.41.3
+  131  cd OneDrive/Documents/YelpCamp
+  132  npm install cloudinary@1.41.3
+  133  npm cache clean --force
+  134  npm cache clean
+  135  npm cache verify
+  136  npm cache clean --force
+  137  cd OneDrive/Documents/YelpCamp
+  138  npm install cloudinary@1.41.3
+  139  npm install multer-storage-cloudinary@4.0.0
+  140  npm install multer@1.4.5-lts.1
+  141  npm cache clean --force
+  142  rm -rf node_modules
+  143  rm package-lock.json
+  144  npm install
+  145  npm install cloudinary@1.41.3
+  146  npm install multer-storage-cloudinary@4.0.0
+  147  npm audit
+  148  npm audit fix
+  149  npm install cloudinary@latest
+  150  npm install multer-storage-cloudinary@latest
+  151  npm install -g npm@latest
+  152  npm install multer-storage-cloudinary@latest
+  153  npm install multer@1.4.4
+  154  npm install multer-storage-cloudinary@4.0.0 --legacy-peer-deps
+  155  npm install cloudinary@^1.21.0
+  156  cd OneDrive/Documents/YelpCamp
+  157  nodemon app.js
+  158  nodemon app.js
+  159  nodemon app.js
+  160  nodemon app.js
+  161  nodemon app.js
+  162  mongosh
+  163  cd OneDrive/Documents/YelpCamp
+  164  ls
+  165  nodemon app.js
+  166  nodemon app.js
+  167  nodemon app.js
+  168  nodemon app.js
+  169  nodemon app.js
+  170  nodemon app.js
+  171  nodemon app.js
+  172  nodemon app.js
+  173  nodemon app.js
+  174  cd OneDrive/Documents/YelpCamp
+  175  nodemon app.js
+  176  nodemon app.js
+  177  nodemon app.js
+  178  nodemon app.js
+  179  nodemon app.js
+  180  nodemon app.js
+  181  npm install mapbox/mapbox-sdk
+  182  npm install mapbox/mapbox-sdk
+  183  npm install @mapbox/mapbox-sdk
+  184  npm install @mapbox/mapbox-sdk
+  185  nodemon app.js
+  186  nodemon app.js
+  187  cd OneDrive/Documents/YelpCamp
+  188  nodemon app.js
+  189  nodemon app.js
+  190  nodemon app.js
+  191  nodemon app.js
+  192  nodemon app.js
+  193  cd OneDrive/Documents/YelpCamp
+  194  nodemon app.js
+  195  nodemon app.js
+  196  nodemon app.js
+  197  cd OneDrive/Documents/YelpCamp
+  198  nodemon app.js
+  199  nodemon app.js
+  200  nodemon app.js
+  201  nodemon app.js
+  202  cd OneDrive/Documents/Yelpcamp
+  203  nodemon app.js
+  204  nodemon app.js
+  205  nodemon app.js
+  206  nodemon app.js
+  207  nodemon app.js
+  208  nodemon app.js
+  209  nodemon app.js
+  210  nodemon app.js
+  211  nodemon app.js
+  212  nodemon app.js
+  213  nodemon app.js
+  214  node seeds/index.js
+  215  node seeds/index.js
+  216  nodemon app.js
+  217  node seeds/index.js
+  218  node seeds/index.js
+  219  nodemon app.js
+  220  cd OneDrive/Documents/YelpCamp
+  221  nodemon app.js
+  222  cd OneDrive/Documents/YelpCamp
+  223  nodemon app.js
+  224  cd OneDrive/Documents/YelpCamp
+  225  nodemon app.js
+  226  node seeds/index.js
+  227  node seeds/index.js
+  228  nodemon app.js
+  229  nodemon app.js
+  230  nodemon app.js
+  231  mongosh
+  232  cd OneDrive/Documents/YelpCamp
+  233  ls
+  234  nodemon app.js
+  235  nodemon app.js
+  236  nodemon app.js
+  237  nodemon app.js
+  238  nodemon app.js
+  239  nodemon app.js
+  240  nodemon app.js
+  241  nodemon app.js
+  242  cd OneDrive/Documents/YelpCamp
+  243  nodemon app.js
+  244  nodemon app.js
+  245  nodemon app.js
+  246  nodemon app.js
+  247  nodemon app.js
+  248  nodemon app.js
+  249  nodemon app.js
+  250  cd OneDrive/Documents/YelpCamp
+  251  nodemon app.js
+  252  node seeds/index.js
+  253  nodemon app.js
+  254  nodemon app.js
+  255  nodemon app.js
+  256  nodemon app.js
+  257  nodemon app.js
+  258  node seeds/index.js
+  259  nodemon app.js
+  260  nodemon app.js
+  261  node seeds/index.js
+  262  nodemon app.js
+  263  node seeds/index.js
+  264  nodemon app.js
+  265  cd OneDrive/Documents/YelpCamp
+  266  nodemon app.js
+  267  nodemon app.js
+  268  nodemon app.js
+  269  nodemon app.js
+  270  nodemon app.js
+  271  nodemon app.js
+  272  nodemon app.js
+  273  cd OneDrive/Documents/YelpCamp
+  274  nodemon app.js
+  275  npm i express-mongo-sanitize
+  276  nodemon app.js
+  277  cd OneDrive/Documents/YelpCamp
+  278  nodemon app.js
+  279  npm i sanitize-html
+  280  nodemon app.js
+  281  cd OneDrive/Documents/YelpCamp
+  282  ls
+  283  nodemon app.js
+  284  NODE
+  285  NODE_ENV=production node app.js
+  286  NODE_ENV=production node app.js
+  287  nodemon app.js
+  288  nodemon app.js
+  289  npm i helmet
+  290  cd OneDrive/Documents/YelpCamp
+  291  nodemon app.js
+  292  cd OneDrive/Documents/YelpCamp
+  293  nodemon app.js
+  294  nodemon app.js
+  295  nodemon app.js
+  296  nodemon app.js
+  297  nodemon app.js
+  298  cd OneDrive/Documents/YelpCamp
+  299  nodemon app.js
+  300  cd "C:\Program Files\MongoDB\Server\6.0\bin"
+  301  mongodump --version
+  302  mongosh
+  303  cd "C:\Program Files\MongoDB\Server\7.0\bin"
+  304  mongodump --db yelp-camp --out ./backup
+  305  cd "C:\Program Files\MongoDB\Server\7.0\bin"
+  306  mongodump --db yelp-camp --out ./backup
+  307  mongosh
+  308  mongorestore --uri "mongodb+srv://harshitha2444:Honeymini@56@cluster0.lst4f.mongodb.net/yelp-camp" --dir=backup/yelp-camp
+  309  where mongostore
+  310  mongosh
+  311  where mongorestore
+  312  mongodump --version
+  313  [200~mongodump --db yelp-camp --out ./backup
+  314  mongodump --db yelp-camp --out ./backup
+  315  cd OneDrive/Documents/YelpCamp
+  316  nodemon app.js
+  317  nodemon app.js
+  318  npm install connect-mongo@3.2.0
+  319  nodemon app.js
+  320  nodemon app.js
+  321  mongosh
+  322  mongosh
+  323  mongo
+  324  npm i mongo
+  325  mongosh
+  326  mongosh
+  327  cd OneDrive/Documents/YelpCamp
+  328  nodemon app.js
+  329  npm list connect-mongo
+  330  npm run dev
+  331  nodemon app.js
+  332  npm uninstall connect-mongo
+  333  npm install connect-mongo
+  334  nodemon app.js
+  335  npm install connect-mongo@latest
+  336  nodemon app.js
+  337  nodemon app.js
+  338  npm run dev
+  339  nodemon app.js
+  340  nodemon app.js
+  341  node
+  342  node -v
+  343  cd OneDrive/Documents/Woxsen
+  344  npm
+  345  npm i
+  346  cd OneDrive/Documents/YelpCamp
+  347  cd OneDrive/Documents/
+  348  cd OneDrive/Documents/
+  349  cd OneDrive/Documents
+  350  .cd
+  351  .. cd
+  352  cd OnDrive/Documents/YelpCamp
+  353  cd OneDrive/Documents/YelpCamp
+  354  ls
+  355  nodemon app.js
+  356  mongo
+  357  mongosh
+  358  git config --list --show-origin
+  359  git config --global user.name "Harshitha Reddy"
+  360  git config --global user.email harshitha2444@gmail.com
+  361   git config --list
+  362  cd OneDrive/Documents/YelpCamp
+  363  ls
+  364  git init
+  365  git status
+  366  git add app.js
+  367  git status
+  368  git add .gitignore
+  369  git status
+  370  git add cloudinary
+  371  git add controllers
+  372  git add middleware
+  373  git add middleware.js
+  374  git add models
+  375  git add package-lock.json
+  376  git add package.json
+  377  git add public
+  378  git add routes
+  379  git add schema.js
+  380  git add schemas.js
+  381  git add seeds
+  382  git add uploads
+  383  git add utils
+  384  git add views
+  385  git status
+  386  git status -s
+  387  git diff
+  388  git status
+  389  git commit
+  390  git commit -a -m 'Add new benchmarks'
+  391  cd OneDrive/**/YelpCamp
+  392  cd OneDrive/Documents/YelpCamp
+  393  git status
+  394  git add 
+  395  git add .
+  396  git status
+  397  git commit
+  398  ls
+  399  git
+  400  git add .
+  401  git status
+  402  git commit -m "first commit"
+  403  git branch -M main
+  404  git remote add origin https://github.com/harshithareddy888/YelpCamp.git
+  405  git push -u origin main
+  406  git push -u origin main
+  407  git
+  408  git clone https://github.com/harshithareddy888/YelpCamp
+  409  cd Users/harshitha reddy/PycharmProjects/handTrackingProjects
+  410  ls
+  411  cd PycharmProjects
+  412  ls
+  413  cd handTrackingProjects
+  414  ls
+  415  git init
+  416  git add .
+  417  git push .
+  418  git status
+  419  git commit -"initial commit"
+  420  git commit -m "initial commit"
+  421  git remote add origin https://github.com/harshithareddy888/handTracking
+  422  git push -u origin master
+  423  git status
+  424  ls
+  425  cd PycharmProjects
+  426  ls
+  427  cd handTrackingProjects
+  428  git init
+  429  git add .
+  430  git status
+  431  git commit -m "committing message"
+  432  git remote add origin https://github.com/harshithareddy888/volumeControlNew
+  433  [200~git remote -v
+  434  git remote -v
+  435  git push -u origin master
+  436  git remote set-url origin https://github.com/harshithareddy888/volumeControlNew.git
+  437  git push -u origin master
+  438  git add .
+  439  git commit -m "Your update message"
+  440  git push
+  441  git branch -m master main
+  442  git push -u origin main
+  443  cd PycharmProjects
+  444  ls
+  445  cd poseEstimation
+  446  git init
+  447  git status
+  448  git add .
+  449  cd harshitha reddy/OneDrive/Documents/Projects/Cric_Analysis
+  450  cd OneDrive/Documents/Projects/Cric_Analysis
+  451  ls
+  452  cd Documents/Projects/Cric_Analysis
+  453  ls
+  454  cs Documents
+  455  cd Documents
+  456  ls
+  457  cd ..
+  458  cd Download
+  459  cd Downloads
+  460  ls
+  461  cd documents
+  462  ls
+  463  mkdir hackmd_scraper
+  464  cd hackmd_scraper
+  465  rm hackmd_scarper
+  466  cd ..
+  467  ls
+  468  rm hackmd_scraper
+  469  rmdir hackmd_scraper
+  470  ls
+  471  cd Documents
+  472  ls
+  473  Cd ..
+  474  cd ..
+  475  ls
+  476  cd OneDrive
+  477  ls
+  478  cd Documents
+  479  ls
+  480  cd Projects
+  481  ls
+  482  cd url_short
+  483  git init
+  484  git add .
+  485  la
+  486  ls
+  487  git commit -m "Initial commit"
+  488  git status
+  489  git remote set-url origin https://github.com/harshithareddy888/22891A05B2
+  490  git branch -M main
+  491  git remote add origin https://github.com/harshithareddy888/22891A05B2
+  492  git push -u origin main
+  493  git pull origin main --rebase
+  494  git push -u origin main
+  495  git status
+  496  git pull origin main --rebase
+  497  git pull origin main --rebase
+  498  cd OneDrive/Documents/Projects/url_short
+  499  git rebase --abort 
+  500  git push -u origin main --force
+  501  git
+  502  git config -- list
+  503  git config --list
+  504  gitconfig
+  505  git config --add --global init.defaultBranch master
+  506  git config
+  507  mkdir webflyx
+  508  ls webflyx
+  509  webflyx ls
+  510  ls webflyx
+  511  ls
+  512  cd webflyx
+  513  git init
+  514  ls -ls
+  515  ls -la
+  516  ind .git
+  517  find .git
+  518  [200~history > git_commands.txt
+  519  history > git_commands.txt
